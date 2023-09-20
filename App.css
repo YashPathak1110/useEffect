@@ -1,0 +1,26 @@
+body{
+  background: linear-gradient(to left,rgb(39, 39, 209),rgb(103, 94, 87),rgb(208, 192, 27))
+}
+.btn {
+  margin-top: 15rem;
+  margin-left: 35rem;
+  width: 130px;
+  height: 70px;
+}
+.btn{
+  box-shadow: 7px 7px 7px black;
+}
+.div{
+margin-top: 20rem;
+font-size: 150px;
+
+}
+.div2{
+  margin-left: 79rem;
+  margin-top: -15rem;
+  color: rgb(20, 18, 76);
+}
+.div1{
+  margin-left: 37rem;
+  color: #0b1218;
+}
